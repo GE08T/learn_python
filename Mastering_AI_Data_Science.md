@@ -75,9 +75,9 @@
 
 1. Tkinter (grafis)
 2. Open CV
-- Motion Detector
-- Facial Recognition
-- Object Detection
+    - Motion Detector
+    - Facial Recognition
+    - Object Detection
 3. Bokeh (Visualisasi Data)
 4. PostGreSQL (database)
 6. Flask (web framework)
