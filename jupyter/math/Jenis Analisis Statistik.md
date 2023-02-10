@@ -12,5 +12,7 @@
 - apakah data mewakili populasi yang sesungguhnya sehingga kesimpulannya bisa digenaralisir
 - Yang di lihat ialah *Conclusions and Predictions*
 - Conclusions gambaran dari populasi
-- Predictions Ramalan seperti regresi dsb. 
+- Predictions Ramalan seperti regresi dsb.
+
+Logic ini bisa diterapkan kedalam python menggunakan beberapa library
 
